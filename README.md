@@ -14,6 +14,6 @@ I plan to update this repository with more topics and experiments on other relat
 > 11th ed, McGraw-Hill, 2002. McGraw-Hill/Irwin series. Operations and
 > decision sciences.
 
-## Concepts  
+## Concepts (they are not added in order, so it may change in the future)
 1. Linear regression using both the **least squares principle** and **gradient descent**. Mean Square Error.
 2. Perceptrons and their limitations (XOR). Hidden Layer neural networks basics. Backpropagation basics.
